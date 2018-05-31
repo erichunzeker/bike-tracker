@@ -10,3 +10,4 @@ the simple program highlights the financial benefits of biking to work
 
 ![alt text](https://raw.githubusercontent.com/erichunzeker/bike-tracker/master/src/img/screenshot.png)
 
+enjoy
