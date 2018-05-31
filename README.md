@@ -1,4 +1,4 @@
 # bike tracker
 
-![alt text](/Users/erichunzeker/bikesavings/src/img/screenshot.png)
+![Alt text](src/img/screenshot.png?raw=true "Title")
 
