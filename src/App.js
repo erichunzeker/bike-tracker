@@ -53,7 +53,7 @@ class App extends Component {
                 </div>
                 <div className="gas">
                     <label>gas price (default 2.50) </label>
-                    <input type="number" defaultValue={this.state.gasprice} onChange={this.handleGasChange} step=".1" />
+                    <input type="number" defaultValue={this.state.gasprice} onChange={this.handleGasChange} step=".01" />
                 </div>
                 <div className="miles">
                     <label>miles to work (default 12) </label>
