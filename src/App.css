@@ -1,0 +1,60 @@
+h1 {
+    text-align: center;
+    font-family: Helvetica;
+    font-weight: lighter;
+}
+
+p {
+    text-align: center;
+    font-family: Helvetica;
+    font-weight: lighter;
+
+    padding-bottom: 4%;
+}
+
+label {
+    padding: 12px;
+    font-family: Helvetica;
+    font-weight: lighter;
+}
+
+input[type=number]:focus {
+    border: 3px solid #555;
+}
+
+input[type=number] {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+
+    font-family: Helvetica;
+    font-weight: lighter;
+}
+
+button {
+    background-color: #2ecc71;
+    border: none;
+    color: white;
+    padding: 16px 32px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 2px;
+
+    font-family: Helvetica;
+    font-weight: lighter;
+    letter-spacing: 1.2px;
+}
+
+.calculate {
+    padding-top: 2%;
+    padding-bottom: 2%;
+}
+
+.mpg, .gas, .miles, .days, .calculate{
+    padding-left: 15%;
+    padding-right: 15%;
+}
